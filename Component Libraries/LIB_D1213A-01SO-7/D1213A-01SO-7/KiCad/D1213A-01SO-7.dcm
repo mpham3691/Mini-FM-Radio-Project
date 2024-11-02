@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D1213A-01SO-7
+D 10V (Typ) Clamp 1A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3
+K
+F https://componentsearchengine.com/Datasheets/1/D1213A-01SO-7.pdf
+$ENDCMP
+#
+#End Doc Library

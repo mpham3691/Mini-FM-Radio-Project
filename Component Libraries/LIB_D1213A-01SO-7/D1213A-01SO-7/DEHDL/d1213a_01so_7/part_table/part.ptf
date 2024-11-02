@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'D1213A_01SO_7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "D1213A-01SO-7" (!) = "", "D1213A01SO7", "Other", "621-D1213A-01SO-7", "https://www.mouser.com/Search/Refine.aspx?Keyword=621-D1213A-01SO-7", "10V (Typ) Clamp 1A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3", "https://componentsearchengine.com/Datasheets/1/D1213A-01SO-7.pdf", "1.2 mm"
+END_PART
+
+END.

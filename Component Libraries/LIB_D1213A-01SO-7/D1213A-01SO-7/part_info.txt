@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=D1213A-01SO-7
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Other
+PinCount=3
+Version=5.6
+Released=2023-11-16 05:22:27
+Downloaded=2024-11-01 12:26:24
+3D=Y

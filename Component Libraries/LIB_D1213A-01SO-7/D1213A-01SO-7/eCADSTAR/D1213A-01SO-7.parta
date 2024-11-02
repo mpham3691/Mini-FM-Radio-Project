@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_440848"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-11-16-05:22:27)
+    (utime 2024-06-25-08:04:54)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "D1213A-01SO-7")
+)
+
+
+(pinAssign "ECS_440848"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-11-16-05:22:27)
+    (utime 2024-06-25-08:04:54)
+    (interface
+        (port "1" (symbPinId 1) (portName "CH1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "VP") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "VN") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_440848")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "D1213A-01SO-7")
+)
+
+
+(part "D1213A-01SO-7"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-11-16-05:22:27)
+    (utime 2024-06-25-08:04:54)
+    (packageRef "D1213A-01SO-7")
+    (pinAssignRef "ECS_440848")
+    (interface
+        (port "1" (symbPinId 1) (portName "CH1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "VP") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "VN") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "10V (Typ) Clamp 1A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3")
+    (property "Mouser_Part_Number" "621-D1213A-01SO-7")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=621-D1213A-01SO-7")
+    (property "Manufacturer_Name" "Diodes Incorporated")
+    (property "Manufacturer_Part_Number" "D1213A-01SO-7")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/D1213A-01SO-7.pdf")
+    (property "compAreaTopHeight" 1.2)
+)
+
+

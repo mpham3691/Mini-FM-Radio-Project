@@ -1,0 +1,16 @@
+.D1213A-01SO-7 :1 ;10V (Typ) Clamp 1A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3
+D1213A01SO7
+*STM D
+*NGS
+*PLB 1="CH1" 2="VP" 3="VN"
+*MXP 3
+*DFN D1213A-01SO-7
+~!Mouser Part Number (621-D1213A-01SO-7)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=621-D1213A-01SO-7)
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (D1213A-01SO-7)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/D1213A-01SO-7.pdf)
+~!Height (1.2mm)
+~!3D_Model (D1213A-01SO-7)
+D1213A-01SO-7
+1.1!U 2.1!U 3.1!U 
