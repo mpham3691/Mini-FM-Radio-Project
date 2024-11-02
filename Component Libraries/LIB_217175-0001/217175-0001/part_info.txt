@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=217175-0001
+PartCategory=Connector
+PackageCategory=Other
+PinCount=10
+Version=1.3
+Released=2021-07-31 05:10:01
+Downloaded=2024-11-01 06:44:50
+3D=Y

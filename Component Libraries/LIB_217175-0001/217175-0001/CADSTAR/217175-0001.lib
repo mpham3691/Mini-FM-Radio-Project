@@ -1,0 +1,17 @@
+.217175-0001 :1 ;Connector USB Type C Female 6Positions 0.5mm Right Angle SMT Embossed T/R - Tape and Reel
+"2171750001"
+*STM J
+*NGS
+*PNM 1=A5 2=A9 3=A12 4=B5 5=B9 6=B12 7=MH1 8=MH2 9=MH3 10=MH4
+*PLB 1="CC1" 2="VBUS_1" 3="GND_1" 4="CC2" 5="VBUS_2" 6="GND_2" 7="MH1" 8="MH2" 9="MH3" 10="MH4"
+*MXP 10
+*DFN 217175-0001
+~!Mouser Part Number (538-217175-0001)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/217175-0001?qs=DRkmTr78QARWJMiqNnldSg%3D%3D)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (217175-0001)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/2171750001_sd.pdf)
+~!Height (3.46mm)
+~!3D_Model (217175-0001)
+"217175-0001"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 
